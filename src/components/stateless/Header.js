@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Header.css';
 import Navigation from './Navigation';
-import * as content from '../Content';
+import * as content from '../../Content';
 
 let injectedStyles = `
   .header-container {

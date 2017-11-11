@@ -4,9 +4,9 @@ import './App.css';
 /* Resources */
 import logo from './logo.svg';
 /* Components */ 
-import Header from './dumbComponents/Header';
-import Footer from './dumbComponents/Footer';
-import ContentContainer from './dumbComponents/ContentContainer';
+import Header from './components/stateless/Header';
+import Footer from './components/stateless/Footer';
+import ContentContainer from './components/stateless/ContentContainer';
 
 class App extends Component {
   render() {

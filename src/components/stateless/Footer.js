@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import './Footer.css';
 /* Components */ 
 /* Content */ 
-import * as content from '../Content';
+import * as content from '../../Content';
 
 
 class Footer extends Component {

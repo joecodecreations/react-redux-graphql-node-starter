@@ -5,7 +5,7 @@ import NavItem from './NavItem';
 /* Styles */ 
 import './Navigation.css';
 /* Content */ 
-import * as content from '../Content';
+import * as content from '../../Content';
 
 
 class Navigation extends Component {
