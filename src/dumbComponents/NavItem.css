@@ -1,0 +1,20 @@
+.navButton {
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 19px;
+    padding-bottom: 21px;
+    font-size: 21px;
+    display: inline-block;
+    text-decoration: none !important;
+    margin-right: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing:2px;
+}
+
+.navButton:hover {
+    background:#555;
+    color:white;
+    text-decoration:none;
+}

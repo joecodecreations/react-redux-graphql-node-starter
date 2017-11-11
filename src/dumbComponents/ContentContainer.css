@@ -1,0 +1,17 @@
+.content-container {
+    width:80%;
+    background:white;
+    min-height:400px;
+    margin:0 auto; 
+    margin-top:60px;
+    border-radius:12px;
+}
+
+.myImage {
+    width: 200px;
+    height: auto;   
+    position: relative;
+    left: 25px;
+    top:25px;
+    float:left;
+}
